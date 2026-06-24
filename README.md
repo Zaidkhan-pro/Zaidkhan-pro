@@ -109,7 +109,7 @@ class ZaidKhan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
 
 <br/>
