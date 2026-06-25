@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/Zaidkhan-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+%40+UOM;Web+Dev+%7C+AI%2FML+Explorer;Building+real+things%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+%40+UO;Freelance+Web+Dev;AI%2FML+Explorer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -109,22 +109,26 @@ class ZaidKhan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=Zaidkhan-pro)
 
+## `> achievements` 🏆
 
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zaidkhan-pro&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 
+---
 
 ## `> currently_learning`
 
@@ -148,12 +152,12 @@ class ZaidKhan:
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&text=&fontSize=0" alt="Footer" />
 </div>
