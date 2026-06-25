@@ -119,6 +119,12 @@ class ZaidKhan:
 </div>
 
 ---
+![trophy](https://github-profile-trophy.vercel.app/?username=Zaidkhan-pro)
+
+
+
+
+
 
 ## `> currently_learning`
 
