@@ -20,7 +20,7 @@
 ```python
 class ZaidKhan:
     name        = "Zaid Khan"
-    university  = "University of Malakand — CS, Sem 4"
+    university  = "University of Malakand — CS"
     location    = "Pakistan 🇵🇰"
     roles       = ["CS Student", "Freelance Web Dev", "AI/ML Explorer"]
     currently   = "Building EFMS · Learning ML fundamentals"
