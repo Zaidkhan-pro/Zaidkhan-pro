@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/Zaidkhan-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+%40+UO;Freelance+Web+Dev;AI%2FML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+%40University+of+Malakand;Building+Cool+Stuff+%F0%9F%9A%80" />
 </a>
 
 <br/>
@@ -109,12 +109,12 @@ class ZaidKhan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=c9cacc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9cacc" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 </div>
 
