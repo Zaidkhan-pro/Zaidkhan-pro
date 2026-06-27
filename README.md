@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/Zaidkhan-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+%40University+of+Malakand;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+%40[...]">
 </a>
 
 <br/>
@@ -64,7 +64,7 @@ class ZaidKhan:
   <tr>
     <td width="50%">
       <h3>🎓 EFMS — Educational Finance Management System</h3>
-      <p>Full-stack web app built with <strong>Flask + MySQL</strong>. Manages student fee records, scholarships, and financial reports for university use. Built as a Database Systems course project.</p>
+      <p>Full-stack web app built with <strong>Flask + MySQL</strong>. Manages student fee records, scholarships, and financial reports for university use. Built as a Database Systems course proje[...]
       <p>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -109,22 +109,27 @@ class ZaidKhan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=c9cacc" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9cacc" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0[..."] alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_colo[..."] alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6F[..."] alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## `> achievements` 🏆
+## `> status` ⚡
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zaidkhan-pro&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/zaiid-khan)
+[![Freelance Available](https://img.shields.io/badge/Freelance-Available-21BF73?style=for-the-badge&logo=upwork&logoColor=white)](https://www.linkedin.com/in/zaiid-khan)
+[![Looking for Projects](https://img.shields.io/badge/Looking%20for-Projects-FF6B6B?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Zaidkhan-pro)
+[![Top Languages](https://img.shields.io/badge/Top%20Langs-Python%20%7C%20JS-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Zaidkhan-pro)
+
+<p>Currently open to freelance and open-source collaboration — connect on LinkedIn or check my repos above.</p>
 
 </div>
 
