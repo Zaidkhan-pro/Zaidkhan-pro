@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/Zaidkhan-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+%40[...]">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+at+University+of+Malakand;Full+Stack+Web+Developer+%26+AI%2FML+Explorer;Building+scalable+apps+%26+learning+ML;Passionate+about+open+source+%26+freelance+work" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -64,7 +64,7 @@ class ZaidKhan:
   <tr>
     <td width="50%">
       <h3>🎓 EFMS — Educational Finance Management System</h3>
-      <p>Full-stack web app built with <strong>Flask + MySQL</strong>. Manages student fee records, scholarships, and financial reports for university use. Built as a Database Systems course proje[...]
+      <p>Full-stack web app built with <strong>Flask + MySQL</strong>. Manages student fee records, scholarships, and financial reports for university use. Built as a Database Systems course project with complete database normalization and optimization.</p>
       <p>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -74,7 +74,7 @@ class ZaidKhan:
     </td>
     <td width="50%">
       <h3>⚡ CLI Task Manager</h3>
-      <p>A command-line task manager in Python. Built while learning <strong>Git & GitHub</strong> from scratch — includes branching, merge conflict resolution, and SSH setup practice.</p>
+      <p>A command-line task manager in Python. Built while learning <strong>Git & GitHub</strong> from scratch — includes branching, merge conflict resolution, and SSH setup practice. Perfect for understanding version control workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/CLI-000?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
@@ -85,7 +85,7 @@ class ZaidKhan:
   <tr>
     <td width="50%">
       <h3>🖼️ Image Convertor</h3>
-      <p>A small web app for fast image format conversion. Built with <strong>TypeScript</strong>, deployed on Vercel.</p>
+      <p>A fast and efficient web app for converting images between multiple formats. Built with <strong>TypeScript</strong> and deployed on Vercel for high performance and easy access.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
@@ -94,7 +94,7 @@ class ZaidKhan:
     </td>
     <td width="50%">
       <h3>🐍 Python Practice</h3>
-      <p>My first GitHub repository. A collection of Python exercises and mini-programs from early in my CS journey.</p>
+      <p>My first GitHub repository documenting my early CS journey. A comprehensive collection of Python exercises, algorithms, and mini-programs created while learning fundamentals of programming.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
@@ -109,12 +109,12 @@ class ZaidKhan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0[..."] alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_colo[..."] alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6F[..."] alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
 
 </div>
 
