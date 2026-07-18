@@ -2,14 +2,10 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/Zaidkhan-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+at+UOM;Freelance+Web+Developer;AI%2FML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+at+[...]"/>
 </a>
 
 <br/>
-
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Zaidkhan-pro&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Zaidkhan-pro?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS" alt="Followers" />
 
 </div>
 
@@ -64,7 +60,7 @@ class ZaidKhan:
   <tr>
     <td width="50%">
       <h3>🎓 EFMS — Educational Finance Management System</h3>
-      <p>Full-stack web app built with <strong>Flask + MySQL</strong>. Manages student fee records, scholarships, and financial reports for university use. Built as a Database Systems course project.</p>
+      <p>Full-stack web app built with <strong>Flask + MySQL</strong>. Manages student fee records, scholarships, and financial reports for university use. Built as a Database Systems course proje[...]</p>
       <p>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -94,7 +90,7 @@ class ZaidKhan:
     </td>
     <td width="50%">
       <h3>🐍 Python Practice</h3>
-      <p>My first GitHub repository documenting my early CS journey. A comprehensive collection of Python exercises, algorithms, and mini-programs created while learning fundamentals of programming.</p>
+      <p>My first GitHub repository documenting my early CS journey. A comprehensive collection of Python exercises, algorithms, and mini-programs created while learning fundamentals of programmin[...]</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
@@ -102,29 +98,6 @@ class ZaidKhan:
     </td>
   </tr>
 </table>
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-<!-- GitHub Stats Card with cache busting -->
-<a href="https://github.com/Zaidkhan-pro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-
-<!-- Top Languages Card with cache busting -->
-<a href="https://github.com/Zaidkhan-pro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidkhan-pro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
-</a>
-
-<br/>
-
-<!-- GitHub Streak Stats with improved URL -->
-<img src="https://streak-stats.demolab.com?user=Zaidkhan-pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
 
 ---
 
