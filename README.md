@@ -1,34 +1,38 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
 <a href="https://github.com/Zaidkhan-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;CS+Student+at+[...]"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Zaid+Khan+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;AI%2FML+Explorer;Open+to+Freelance+%26+Collab" alt="Typing SVG" />
 </a>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Pakistan-%F0%9F%87%B5%F0%9F%87%AE-0057B7?style=flat-square&logoColor=white" alt="Pakistan" />
+  <img src="https://img.shields.io/badge/University-of-Malakand-0A66C2?style=flat-square&logoColor=white" alt="University of Malakand" />
+  <img src="https://img.shields.io/badge/Status-Open+to+Work-21BF73?style=flat-square&logoColor=white" alt="Open to Work" />
+</p>
 
 </div>
 
 ---
 
-## `> whoami`
+## About Me
 
 ```python
 class ZaidKhan:
-    name        = "Zaid Khan"
-    university  = "University of Malakand — CS"
-    location    = "Pakistan 🇵🇰"
-    roles       = ["CS Student", "Freelance Web Dev", "AI/ML Explorer"]
-    currently   = "Building EFMS · Learning ML fundamentals"
-    looking_for = "Freelance projects · Open source collabs"
-    fun_fact    = "I debug at 2am and it actually works."
+    name = "Zaid Khan"
+    role = "Computer Science Student"
+    location = "Pakistan 🇵🇰"
+    focus_areas = ["Web Development", "Database Systems", "AI/ML"]
+    currently = "Building impactful projects and learning modern tech"
+    hobbies = ["Coding", "Problem Solving", "Exploring new tools"]
 ```
+
+I’m a CS student with a strong interest in full-stack development, databases, and AI/ML. I enjoy building practical projects, learning through real-world problems, and collaborating with others in the open-source community.
 
 ---
 
-## `> tech_stack`
+## Tech Stack
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,7 +41,7 @@ class ZaidKhan:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+### Frameworks & Tools
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +50,7 @@ class ZaidKhan:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 
-**Currently Exploring**
+### Currently Exploring
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,13 +58,13 @@ class ZaidKhan:
 
 ---
 
-## `> featured_projects`
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🎓 EFMS — Educational Finance Management System</h3>
-      <p>Full-stack web app built with <strong>Flask + MySQL</strong>. Manages student fee records, scholarships, and financial reports for university use. Built as a Database Systems course proje[...]</p>
+      <h3>🎓 EFMS</h3>
+      <p>Educational Finance Management System built with <strong>Flask + MySQL</strong>. It helps manage student records, fees, scholarships, and financial reports.</p>
       <p>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -70,7 +74,7 @@ class ZaidKhan:
     </td>
     <td width="50%">
       <h3>⚡ CLI Task Manager</h3>
-      <p>A command-line task manager in Python. Built while learning <strong>Git & GitHub</strong> from scratch — includes branching, merge conflict resolution, and SSH setup practice.</p>
+      <p>A Python command-line task manager built while learning Git/GitHub workflows, branching, and conflict resolution.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/CLI-000?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
@@ -80,8 +84,8 @@ class ZaidKhan:
   </tr>
   <tr>
     <td width="50%">
-      <h3>🖼️ Image Convertor</h3>
-      <p>A fast and efficient web app for converting images between multiple formats. Built with <strong>TypeScript</strong> and deployed on Vercel for high performance and easy access.</p>
+      <h3>🖼️ Image Converter</h3>
+      <p>A web app for converting images between formats using <strong>TypeScript</strong>, deployed smoothly on Vercel.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
@@ -90,7 +94,7 @@ class ZaidKhan:
     </td>
     <td width="50%">
       <h3>🐍 Python Practice</h3>
-      <p>My first GitHub repository documenting my early CS journey. A comprehensive collection of Python exercises, algorithms, and mini-programs created while learning fundamentals of programmin[...]</p>
+      <p>A collection of beginner-friendly Python exercises and code practice covering core logic, algorithms, and problem solving.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
@@ -101,33 +105,27 @@ class ZaidKhan:
 
 ---
 
-## `> status` ⚡
+## GitHub Stats
 
 <div align="center">
-
-[![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/zaiid-khan)
-[![Freelance Available](https://img.shields.io/badge/Freelance-Available-21BF73?style=for-the-badge&logo=upwork&logoColor=white)](https://www.linkedin.com/in/zaiid-khan)
-[![Looking for Projects](https://img.shields.io/badge/Looking%20for-Projects-FF6B6B?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Zaidkhan-pro)
-[![Top Languages](https://img.shields.io/badge/Top%20Langs-Python%20%7C%20JS-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Zaidkhan-pro)
-
-<p>Currently open to freelance and open-source collaboration — connect on LinkedIn or check my repos above.</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaidkhan-pro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidkhan-pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## `> currently_learning`
+## Current Focus
 
-```
-[█████████░░░░░░░░░░░] 45% — Machine Learning (scikit-learn, NumPy, Pandas)
-[███████████████░░░░░] 75% — Full Stack Web Dev (Flask, Supabase, Vercel)
+```text
+[█████████░░░░░░░░░░░] 45% — Machine Learning
+[███████████████░░░░░] 75% — Full-Stack Web Development
 [████████████████████] 99% — Git & GitHub workflows
-[████████░░░░░░░░░░░░] 40% — Database Design & Optimization (MySQL)
+[████████░░░░░░░░░░░░] 40% — Database Design & Optimization
 ```
 
 ---
 
-## `> connect`
+## Connect With Me
 
 <div align="center">
 
@@ -137,6 +135,8 @@ class ZaidKhan:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaidkhan-pro)
 
 <br/>
+
+<p>Open to freelance work, collaborations, and learning opportunities.</p>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
